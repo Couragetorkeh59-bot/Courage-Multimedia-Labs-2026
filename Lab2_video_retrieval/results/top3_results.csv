@@ -1,0 +1,4 @@
+﻿rank,query_id,candidate_id,title,category,similarity,relevant_by_category
+1,WxtbjNsCQ8A,kLxoNp-UchI,Oliver's Show - Dog's tale,DS,0.7189,False
+2,WxtbjNsCQ8A,JgHubY5Vw3Y,How to lock your bike. The RIGHT way!,BT,0.6500,False
+3,WxtbjNsCQ8A,uGu_10sucQo,A Year of Beekeeping,BK,0.6464,True

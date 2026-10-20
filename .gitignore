@@ -1,0 +1,50 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Datasets and downloaded data
+dataset/
+datasets/
+data/
+*.zip
+
+# Model weights and checkpoints
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.pb
+*.onnx
+
+# Generated feature caches
+features/
+cache/
+*.npy
+*.npz
+
+# Temporary files
+*.log
+.DS_Store
+
+# Cloned reference repositories
+Lab1image_retrieval/reference_code/
+Lab2_video_retrieval/reference_code/
+Lab2_video_retrieval/visil_pytorch_reference/
+
+# Extracted COIL-100 dataset
+Lab1image_retrieval/coil-100/
+
+# Cloned reference repositories
+Lab1image_retrieval/reference_code/
+Lab2_video_retrieval/reference_code/
+Lab2_video_retrieval/visil_pytorch_reference/
+
+# Generated summary video (keep locally)
+Lab3_video_summarization/results/summary_video.mp4
+.git_backup/

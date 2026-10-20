@@ -1,0 +1,7 @@
+Dataset images: 7200
+Query count: 720
+Gallery count: 6480
+Feature method: normalized RGB color histogram
+Similarity: cosine similarity
+Relevance: same COIL-100 object ID
+Mean Precision@5: 0.9600

@@ -1,0 +1,16 @@
+frame_number,timestamp_seconds,frame_file
+1,0.00,summary_frame_01.jpg
+2,66.93,summary_frame_02.jpg
+3,96.46,summary_frame_03.jpg
+4,110.24,summary_frame_04.jpg
+5,112.21,summary_frame_05.jpg
+6,137.80,summary_frame_06.jpg
+7,143.71,summary_frame_07.jpg
+8,165.37,summary_frame_08.jpg
+9,177.18,summary_frame_09.jpg
+10,181.11,summary_frame_10.jpg
+11,192.93,summary_frame_11.jpg
+12,214.58,summary_frame_12.jpg
+13,222.46,summary_frame_13.jpg
+14,242.14,summary_frame_14.jpg
+15,246.08,summary_frame_15.jpg
